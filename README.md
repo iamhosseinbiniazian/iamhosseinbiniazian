@@ -37,5 +37,5 @@ My name is Hossein Biniazian and I'm a Data scientist and Machine Learning  engi
 
 [1]: https://twitter.com/biniazian
 [2]: https://github.com/iamhosseinbiniazian
-[3]: https://www.linkedin.com/in/heinz-martin/
+[3]: https://www.linkedin.com/in/hossein-biniazian-74b7a3157/
 
