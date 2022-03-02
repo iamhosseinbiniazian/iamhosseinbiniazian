@@ -1,6 +1,6 @@
 #  Hi there 👋
 
-My name is Hossein Biniazian and I'm a Data scientist and Machine Learning  engineer. I also like programming in python, c++,C# java,matal and etc. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Hossein Biniazian and I'm a Data scientist and Machine Learning  engineer. I also like programming in python, c++,C# java, matlab and etc. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
